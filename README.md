@@ -1,5 +1,8 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### Name: Dharshini J
+### Register Number: 212224240036
+### DATE: 02/5/25
+
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -60,8 +63,7 @@
 ## Output:
 ![Screenshot 2025-05-02 103003](https://github.com/user-attachments/assets/d8771f4b-8dc5-41ec-b1de-9b353f99bc6d)
 
-### Name: Dharshini J
-### Register Number: 212224240036
+
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
